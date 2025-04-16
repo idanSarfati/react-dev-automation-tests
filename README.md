@@ -9,8 +9,9 @@ This project contains automated Playwright tests for the [React.dev](https://rea
 
 ## 🚀 How to Run the Tests
 
-1. *Install dependencies:*2.  *Run all tests:*
-3.  *View the HTML report:*
+1. *Install dependencies:*
+2. *Run all tests:*
+3. *View the HTML report:*
 
 
 ## 🗂️ Project Structure
