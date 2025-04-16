@@ -30,6 +30,4 @@ This project contains automated Playwright tests for the [React.dev](https://rea
 
 Idan Sarfati
 
----
 
-Better done than perfect!
